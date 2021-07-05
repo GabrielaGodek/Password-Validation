@@ -1,4 +1,4 @@
-# <center>Project #3</center>
+# <center>Project #4</center>
 ### <center>Password Validation</center>
 <div align="justify">
 This is the <u>fourth</u> of few smaller and simpler project I create during course <i>JavaScript by Mateusz Maj.</i>
