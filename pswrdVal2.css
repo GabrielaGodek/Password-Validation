@@ -1,0 +1,65 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: #362d26;
+  font-family: "Helvetica";
+}
+
+.form {
+  margin-top: 10vh;
+  border: 1px solid #bac0b3;
+  border-radius: 30px;
+  height: 70vh;
+  background-color: #bac0b3;
+  -webkit-box-shadow: 8px 8px 24px 0px #42445a;
+  -moz-box-shadow: 8px 8px 24px 0px #42445a;
+  box-shadow: 8px 8px 24px 0px #42445a;
+}
+
+.form ul {
+  list-style: none;
+}
+
+.form ul .item {
+  border-bottom: 1px solid black;
+  text-align: left;
+  padding: 0 20px;
+}
+
+.form ul .item:hover {
+  background-color: #c5c9c1;
+  cursor: pointer;
+}
+
+.form ul .info {
+  background-color: #c5c9c1;
+  border-bottom: 1px solid black;
+}
+
+.form input {
+  height: 40px;
+  border-radius: 10px;
+  position: absolute;
+  bottom: 50px;
+}
+
+.form button {
+  background-color: #98a18d;
+  border-radius: 10px;
+  border: none;
+  text-transform: uppercase;
+  padding: 10px 30px;
+  -webkit-box-shadow: 8px 8px 24px 0px #42445a;
+  -moz-box-shadow: 8px 8px 24px 0px #42445a;
+  box-shadow: 8px 8px 24px 0px #42445a;
+}
+
+.form button:hover {
+  background-color: #878f7d;
+}
+
+.form .hide {
+  display: none;
+}
